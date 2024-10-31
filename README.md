@@ -1,4 +1,6 @@
-# Project
+# COMPARATIVE ANAYLYSIS OF  HISTOPATHOLOGICAL IMAGE
+CLASSIFICATION MODELS FOR BREAST CANCER
+DETECTION
 To implement a breast cancer detection system using Convolutional Neural Networks (CNNs) with U-Net, AlexNet, and ResNet on histopathological images, you'll be creating a deep learning pipeline to classify and segment cancerous tissue. Here’s a step-by-step summary of how this project could be structured on GitHub, with links to the relevant code sections.
 
 1. Project Overview
